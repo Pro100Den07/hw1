@@ -1,3 +1,4 @@
+//1
 public class Main {
     public static void main(String[] args) {
         int[] ar = {5, 2, 9, 1, 5, 6};
@@ -32,5 +33,5 @@ public class Main {
 //git init
 //git add .
 //git commit -m "first commit"
-//git remote add origin https://github.com/Pro100Den07/hw1.git
+//git remote add origin github.com/Pro100Den07/hw1.git
 //git push -u origin main
